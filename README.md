@@ -12,4 +12,4 @@ E-Commerce is a back end application that allows the user to pull infromation on
 [Github Repo Link](https://github.com/Jdiaz240/e-commerce_Back_End_JD)
 
 
-![Video Link]()
+[Video Link](https://drive.google.com/file/d/1glcRITVqQs4RIvlBegUAfN2KhXTvnI5J/view)
